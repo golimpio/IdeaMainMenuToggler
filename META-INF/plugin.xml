@@ -34,7 +34,7 @@
     </project-components>
 
     <actions>
-        <action id="ToggleMainMenuAction" class="com.bashorov.mainMenuToggler.ToggleMainMenuAction"
+        <action id="ToggleMainMenuAction" class="ToggleMainMenuAction"
                 text="Toggle Main Menu">
             <add-to-group group-id="UIToggleActions" anchor="last"/>
         </action>
